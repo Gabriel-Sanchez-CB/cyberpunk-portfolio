@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061018"/><stop offset="1" stop-color="#0a1f29"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="800" height="900" fill="url(#g)"/>
+  <g stroke="#36f5ff" fill="none" opacity=".18"><path d="M0 110h800M0 220h800M0 330h800M0 440h800M0 550h800M0 660h800M0 770h800"/><path d="M100 0v900M200 0v900M300 0v900M400 0v900M500 0v900M600 0v900M700 0v900"/></g>
+  <circle cx="400" cy="300" r="145" fill="#0e2630" stroke="#36f5ff" stroke-width="3"/>
+  <path d="M278 287c12-112 218-141 250-10 8 33 5 98-15 133-34 58-74 94-116 94-57 0-116-77-127-157-3-22 0-43 8-60z" fill="#102b36" stroke="#5cff95" stroke-width="2"/>
+  <path d="M292 250c18-89 198-129 235-22-53-26-138-20-235 22z" fill="#08151c"/>
+  <path d="M332 335h48M422 335h48" stroke="#36f5ff" stroke-width="8" filter="url(#glow)"/>
+  <path d="M391 364l-14 66 28 0M350 459c36 24 68 24 104 0" stroke="#5cff95" stroke-width="4"/>
+  <path d="M290 533c-113 37-167 136-190 306h600c-23-170-77-269-190-306-37 44-70 65-110 65s-73-21-110-65z" fill="#0d2028" stroke="#36f5ff" stroke-width="3"/>
+  <path d="M264 588l136 108 136-108M400 697v142" stroke="#5cff95" stroke-width="3" opacity=".7"/>
+  <g font-family="monospace" font-size="20" fill="#36f5ff" opacity=".85"><text x="35" y="60">ID: GABRIEL.S</text><text x="35" y="92">NODE: CYBER-01</text><text x="575" y="840">SECURE</text></g>
+  <path d="M20 20h120M20 20v70M780 20H660M780 20v70M20 880h120M20 880v-70M780 880H660M780 880v-70" stroke="#36f5ff" stroke-width="4"/>
+</svg>
